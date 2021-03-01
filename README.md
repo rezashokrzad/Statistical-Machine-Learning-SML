@@ -6,7 +6,7 @@ Problems of Statistical Machine Learning course
   - 'Bishop' was the main reference of the course.
 
 
-  - Titles:\n
+  - Titles:<br/>
         - File 1:
             - M-th order polynomial regression
             - gradient descent
