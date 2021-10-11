@@ -3,7 +3,7 @@ Problems of Statistical Machine Learning course
 
   - This course tries to address the statistical aspect of ML. 
 
-  - 'Bishop' was the main reference of the course.
+  - Reference: 'Bishop'
 
 
   - Titles: <br/>
@@ -15,11 +15,19 @@ Problems of Statistical Machine Learning course
            
          
      - File 2: <br/>
-       - f <br/>
+       - Probabilistic generative models <br/>
+       - Bayesian linear regression <br/>
+       - Sequential learning <br/>
 
 
      - File 3: <br/>
-       - f <br/>
+       - The faulty lighthouse <br/>
+       - Neural network regression <br/>
+       - Bayesian polynomial regression <br/>
 
-
+      - File 4: <br/>
+        - Gaussian processes <br/>
+        - EM and doping <br/>
+        - Gibbs sampling and Metropolis-Hastings <br/>
+        - Variational inference for Bayesian linear regression <br/>
 
